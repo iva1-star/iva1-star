@@ -1,0 +1,8 @@
+market-hall-project/
+├── app.py                  # 主程式 (Streamlit)
+├── data_loader.py          # 資料匯入與驗證模組
+├── data_cleaner.py         # 資料清理模組
+├── analyzer.py             # 分類分析、模型計算
+├── visualizer.py           # 視覺化圖表生成
+├── requirements.txt        # 套件需求清單
+└── README.md               # 專案說明文件\
